@@ -1,1 +1,1 @@
-# from
+# store info from other shares
